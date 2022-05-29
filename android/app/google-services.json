@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "719228016422",
+    "project_id": "jobsheet8-a3914",
+    "storage_bucket": "jobsheet8-a3914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719228016422:android:c9bf3a10355167f6d113e7",
+        "android_client_info": {
+          "package_name": "id.polinema.jobsheet8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719228016422-3u958msv415qve4fua5scgh8ttrp3ol0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.polinema.jobsheet8",
+            "certificate_hash": "7710f7b1d28a104d0c4ee809949445017f833f3e"
+          }
+        },
+        {
+          "client_id": "719228016422-khvkqta75multqo2a6p5n0icpolr1n72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwNVEMyrliM_DzEb8wVmFMJIc9vs5-Y6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719228016422-khvkqta75multqo2a6p5n0icpolr1n72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
